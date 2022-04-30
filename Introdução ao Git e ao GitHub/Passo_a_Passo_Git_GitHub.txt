@@ -1,0 +1,16 @@
+Passo a Passo:
+
+1 -  Criar Repositório Remoto GitHub
+2 -  Copiar Código https://github ....
+3 -  Ir no Git Bash e estar no diretorio correto para clonar o repositório remoto
+4 -  $ git clone https://github (colar o código)
+5 -  Faz as alterações que deseja
+6 -  $ ls (certifica os arquivos)
+6 -  $ git status 
+7 -  $ git add .(ponto) ou * ou -a
+8 -  $ git commit -m "Passo a Passo ...."
+9 -  $ git status
+10 - $ git push origin main ou master
+11 - $ git merge
+
+     
