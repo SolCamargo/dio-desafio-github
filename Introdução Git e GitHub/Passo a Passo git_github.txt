@@ -1,0 +1,11 @@
+ 1 - criar repositório no GitHub
+ 2 - copiar o código ssh - https://github
+ 3 - ir ao git bash
+ 4 - estar no diretório que deseja copiar
+ 5 - $ git clone https://guthub ..... (colar)
+ 6 - $ git status
+ 7 - $ git add .(ponto) ou * ou -a
+ 8 - $ git commit -m "texto aleatorio"
+ 9 - $ git status (pra ver como está)
+10 - $ git push origin main ou master (vai depender de como vai estar no final do caminho
+11 - $ git merge
